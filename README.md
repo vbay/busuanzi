@@ -7,3 +7,5 @@ busuanzi.org - machineLearning
 
 # 机器学习技术路线
 机器学习
+#算法学习路线
+#常用工具
