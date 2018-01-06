@@ -9,3 +9,4 @@ busuanzi.org - machineLearning
 机器学习
 #算法学习路线
 #常用工具
+#面向机器学习完整项目，辅助人工智能之机器学习
