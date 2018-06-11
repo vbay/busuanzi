@@ -1,4 +1,5 @@
-# 卜算子/ busuanzi
+# 卜算子/ busuanzi 
+[![Build Status](https://travis-ci.org/wangxiaoleiAI/busuanzi.svg?branch=master)](https://travis-ci.org/wangxiaoleiAI/busuanzi)
 卜算子-机器学习
 ``` 
 busuanzi.org - machineLearning
